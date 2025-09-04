@@ -53,7 +53,7 @@ Instale as dependências:
 ```bash
 pip install pandas openpyxl PyMuPDF pywin32
 
-### 2. Ajustar Caminhos
+2. Ajustar Caminhos
 
 Nos scripts .py, atualize os caminhos de acordo com a sua máquina/pasta:
 
